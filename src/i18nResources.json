@@ -1,0 +1,20 @@
+{
+    "en": {
+      "translation": {
+        "welcome": "Welcome",
+        "description": "This is a single page website.",
+        "contactUs": "Contact us for free ERP consultancy",
+        "yesIWantThat": "YES, I WANT THAT",
+        "getFreeAnalysis": "Get A Free Marketing Analysis",
+        "fillForm": "Fill out the form and we'll get back to you within 48 hours.",
+        "noObligations": "No obligations, no annoying high-pressure sales tactics. We won't waste your time.",
+        "name": "Name",
+        "email": "E-mail",
+        "company": "Company",
+        "phone": "Phone",
+        "importantQuestion": "What is your most important question?",
+        "send": "SEND"
+      }
+    }
+  }
+  

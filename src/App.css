@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header, .services, .differences, .contact, footer {
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background: #fff;
+}
+
+.services, .differences {
+  background: #fff;
+}
+
+.contact {
+  background: #f4f4f4;
+}
+
+footer {
+  background: #333;
+  color: #fff;
+}

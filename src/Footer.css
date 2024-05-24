@@ -1,0 +1,33 @@
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer p, .footer .contact-info {
+  margin: 0;
+  margin-top: 10px; /* Adding top margin for spacing between elements */
+  font-size: 1em;
+}
+
+.footer .logo img {
+  width: 150px;
+  height: auto;
+  margin: 10px 0;
+}
+
+.footer .contact-info {
+  display: flex;
+  align-items: center;
+}
+
+.footer .contact-info .fa-phone-alt { /* Explicitly style the icon */
+  color: #fff; /* Set color to ensure visibility against the footer background */
+  margin-right: 10px; /* Space between icon and text */
+  font-size: 1em; /* Adjust size as needed */
+}
+

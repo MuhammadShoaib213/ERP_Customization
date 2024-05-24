@@ -1,0 +1,61 @@
+.hero {
+  background: linear-gradient(to bottom, #fff, #ddd);
+  padding: 100px 20px;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 2.5em;
+  margin: 0 0 20px;
+  font-weight: bold;
+  color: #333;
+  text-align: center;
+}
+
+.hero .sub-heading {
+  font-size: 1.5em;
+  color: red;
+  margin: 0 0 40px;
+  text-align: center;
+}
+
+.hero .cta-button {
+  background: red;
+  color: white;
+  border: none;
+  padding: 20px 60px; /* Adjusted padding */
+  font-size: 1.8em; /* Adjusted font size */
+  border-radius: 40px; /* Adjusted border radius */
+  cursor: pointer;
+  margin: 20px 0;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.hero .cta-button:hover {
+  background: darkred;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+/* Media Query for smaller screens */
+@media only screen and (max-width: 768px) {
+  .hero {
+    padding: 80px 10px; /* Adjusted padding for smaller screens */
+  }
+
+  .hero h1 {
+    font-size: 2em; /* Adjusted font size for smaller screens */
+  }
+
+  .hero .sub-heading {
+    font-size: 1.2em; /* Adjusted font size for smaller screens */
+    margin-bottom: 20px; /* Adjusted margin for smaller screens */
+  }
+
+  .hero .cta-button {
+    padding: 15px 40px; /* Adjusted padding for smaller screens */
+    font-size: 1.4em; /* Adjusted font size for smaller screens */
+    border-radius: 30px; /* Adjusted border radius for smaller screens */
+  }
+}

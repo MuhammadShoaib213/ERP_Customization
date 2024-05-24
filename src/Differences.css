@@ -1,0 +1,45 @@
+.differences {
+  background-color: #fff;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.differences h2 {
+  font-size: 2.5em;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.difference-cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.difference-card {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  width: 100%; /* Adjusted width for small screens */
+  max-width: 300px; /* Added max-width for larger screens */
+  margin: 10px; /* Adjusted margin for small screens */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.difference-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.difference-card h3 {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.difference-card p {
+  font-size: 1.1em;
+  color: #666;
+}
