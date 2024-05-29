@@ -26,5 +26,9 @@
   "company": "Kompanyi",
   "phone": "Telefoni",
   "importantQuestion": "Ni iki kibazo cyawe cy'ingenzi kurusha ibindi?",
-  "send": "OHEREZA"
+  "send": "OHEREZA",
+  "homePageTitle": "Igisubizo cya ERP gihendutse kandi cyahinduwe",
+  "homePageDescription": "Menya ibisubizo bya ERP bihendutse kandi bihujwe n'ibyo ukeneye. Kuzigama amafaranga no kwirinda kwishyura amafaranga y'impushya buri gihe hamwe na serivisi zacu z'ubuhanga.",
+  "contactPageTitle": "Twandikire ku ihinduranywa rya ERP",
+  "contactPageDescription": "Twandikire kugirango tuganire ku buntu ku ihinduranywa rya ERP. Nta gahato, gusa inama z'inzobere ku bisubizo bya ERP bihendutse kandi byahinduwe."
 }

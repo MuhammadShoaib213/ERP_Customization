@@ -5,17 +5,24 @@
 }
 
 .hero h1 {
-  font-size: 2.5em;
+  font-size: 3em; /* Increased font size for h1 */
   margin: 0 0 20px;
   font-weight: bold;
   color: #333;
   text-align: center;
 }
 
-.hero .sub-heading {
-  font-size: 1.5em;
+.hero h2 {
+  font-size: 2.5em; /* Font size for h2 */
+  margin: 0 0 20px;
+  color: #333;
+  text-align: center;
+}
+
+.hero h3 {
+  font-size: 2em; /* Font size for h3 */
+  margin: 0 0 20px;
   color: red;
-  margin: 0 0 40px;
   text-align: center;
 }
 
@@ -45,11 +52,15 @@
   }
 
   .hero h1 {
+    font-size: 2.5em; /* Adjusted font size for smaller screens */
+  }
+
+  .hero h2 {
     font-size: 2em; /* Adjusted font size for smaller screens */
   }
 
-  .hero .sub-heading {
-    font-size: 1.2em; /* Adjusted font size for smaller screens */
+  .hero h3 {
+    font-size: 1.5em; /* Adjusted font size for smaller screens */
     margin-bottom: 20px; /* Adjusted margin for smaller screens */
   }
 

@@ -15,9 +15,9 @@
   background: red;
   color: white;
   border: none;
-  padding: 30px 90px;
-  font-size: 2.2em;
-  border-radius: 55px;
+  padding: 15px 40px; /* Adjusted padding for smaller screens */
+  font-size: 1.4em; /* Adjusted font size for smaller screens */
+  border-radius: 30px; /* Adjusted border radius for smaller screens */
   cursor: pointer;
   margin: 20px 0;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);

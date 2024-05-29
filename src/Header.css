@@ -1,7 +1,7 @@
 .header {
   background-color: #fff;
   border-bottom: 1px solid #ddd;
-  padding: 10px 0;
+  padding: 20px 0; /* Increased padding for a more substantial header */
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -14,13 +14,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 20px; /* Added padding for small screens */
+  padding: 0 20px; /* Ensured consistent padding */
   max-width: 1200px;
   margin: 0 auto;
 }
 
 .logo img {
-  width: 80px; /* Adjusted logo size for small screens */
+  width: 100px; /* Increased logo size for better visibility */
   height: auto;
 }
 
@@ -32,7 +32,7 @@ nav ul {
 }
 
 nav ul li {
-  margin: 0 10px; /* Adjusted margin for small screens */
+  margin: 0 20px; /* Increased margin for better spacing */
   transition: transform 0.3s ease, color 0.3s ease;
 }
 
@@ -44,11 +44,12 @@ nav ul li a {
   text-decoration: none;
   color: #000;
   font-weight: bold;
-  font-size: 14px; /* Adjusted font size for small screens */
+  font-size: 18px; /* Increased font size for better readability */
 }
 
 .language-selector select {
-  padding: 5px;
+  padding: 8px; /* Increased padding for better usability */
   border: 1px solid #ccc;
   border-radius: 4px;
+  font-size: 16px; /* Increased font size for better readability */
 }

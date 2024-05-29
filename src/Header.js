@@ -14,7 +14,7 @@ const Header = () => {
     <header className="header">
       <div className="header-content">
         <div className="logo">
-          <img src={logo} alt="ProfResults Logo" />
+          <img src={logo} alt="ErpCustomization.net Logo" />
         </div>
         <nav>
           <ul>

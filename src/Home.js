@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { Helmet } from 'react-helmet';
 import Header from './Header';
 import Services from './Services';
 import Differences from './Differences';
@@ -13,16 +14,20 @@ const Home = () => {
 
   return (
     <div>
+      <Helmet>
+        <title>{t('homePageTitle')}</title>
+        <meta name="description" content={t('homePageDescription')} />
+      </Helmet>
       <Header />
       <section className="hero">
         <h1>{t('headline1')}</h1>
-        <h1>{t('headline2')}</h1>
-        <h1>{t('headline3')}</h1>
+        <h2>{t('headline2')}</h2>
+        <h2>{t('headline3')}</h2>
         <br/>
-        <h2 className="sub-heading">{t('subheading1')}</h2>
-        <h2 className="sub-heading">{t('subheading2')}</h2>
+        <h3 className="sub-heading">{t('subheading1')}</h3>
+        <h3 className="sub-heading">{t('subheading2')}</h3>
         <Link to="/ContactForm">
-        <button className="cta-button">{t('contactButton')}</button>
+          <button className="cta-button">{t('contactButton')}</button>
         </Link>
       </section>
       <br />

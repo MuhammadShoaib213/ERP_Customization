@@ -17,16 +17,22 @@
     "i18next-http-backend": "^2.5.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-helmet": "^6.1.0",
     "react-i18next": "^14.1.1",
     "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
+    "react-toastify": "^10.0.5",
+    "sitemap": "^8.0.0",
+    "sitemap-generator": "^8.5.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "generate-sitemap": "node generate-sitemap.js",
+    "deploy": "npm run generate-sitemap && npm run build && your-deploy-script"
   },
   "eslintConfig": {
     "extends": [
