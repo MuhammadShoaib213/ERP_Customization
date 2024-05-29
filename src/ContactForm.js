@@ -27,7 +27,7 @@ const ContactForm = () => {
 
   const handleSubmit = (event) => {
     event.preventDefault();
-    fetch('http://localhost:3003/send-email', {
+    fetch('http://195.179.231.102:3003/send-email', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
