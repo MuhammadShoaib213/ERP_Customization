@@ -18,7 +18,11 @@
   "localSubtext": "Ntabwo turi ahantu hatazwi. Turi sosiyete y'ino aha, uzashobora kutugeraho igihe cyose ukeneye.",
   "specialized": "ABAHANGA",
   "specializedSubtext": "Buri wese afite icyo ashoboye... nta wuhanga ibintu byose. Kwibanda ku byo dushoboye bituma twizera ibyo dukora. Niyo mpamvu dukorana n’inganda tuzi, kugira ngo twemeze ibyavuyemo.",
-  "contactUsHeading": "Twandikire kugirango tuganire ku buntu ku ihinduranywa rya ERP",
+  "Tailored": "BYAHINDUWE",
+  "TailoredSubtext": "Ibisubizo byacu bya ERP byubakwa kugira ngo bihaze ibyifuzo byihariye by'ubucuruzi bwawe, bigatuma habaho gukora neza no kongera umusaruro binyuze mu buryo bwihariye buhuza n'ibyifuzo bitandukanye.",
+  "End-to-End": "BIVA KU NTANGIRIRO KUGERA KU MUSOZO",
+  "End-to-EndSubtext": "Dutanga inkunga yuzuye ya ERP kuva mu gutangira kugeza ku mavugurura ahoraho, dufite ikipe ihari amasaha 24/7 kugira ngo ikurikirane imikorere myiza n'ubufatanye buharanira iterambere ryawe.",
+  "contactUsHeading": "Twandikire Kugira ngo Tuganire ku Buntu ku Ihinduranywa rya ERP",
   "contactUsButton": "Twandikire",
   "noObligations": "Nta gahato, nta mikorere y'ubucuruzi ikuza ibintu. Ntituzatwara umwanya wawe ubusa.",
   "name": "Izina",
@@ -27,8 +31,8 @@
   "phone": "Telefoni",
   "importantQuestion": "Ni iki kibazo cyawe cy'ingenzi kurusha ibindi?",
   "send": "OHEREZA",
-  "homePageTitle": "Igisubizo cya ERP gihendutse kandi cyahinduwe",
-  "homePageDescription": "Menya ibisubizo bya ERP bihendutse kandi bihujwe n'ibyo ukeneye. Kuzigama amafaranga no kwirinda kwishyura amafaranga y'impushya buri gihe hamwe na serivisi zacu z'ubuhanga.",
-  "contactPageTitle": "Twandikire ku ihinduranywa rya ERP",
-  "contactPageDescription": "Twandikire kugirango tuganire ku buntu ku ihinduranywa rya ERP. Nta gahato, gusa inama z'inzobere ku bisubizo bya ERP bihendutse kandi byahinduwe."
+  "homePageTitle": "Ibisubizo bya ERP Bihendutse kandi Byahinduwe Kuri Wowe",
+  "homePageDescription": "Menya ibisubizo bya ERP bihendutse kandi byahujwe n'ibyo ukeneye. Kuzigama amafaranga, kwirinda kwishyura amafaranga y'impushya buri gihe, no kwifashisha serivisi zacu z'ubuhanga kugira ngo wongere ubushobozi bw'ibikorwa byawe.",
+  "contactPageTitle": "Twandikire kugira ngo tugufashe mu Ihinduranywa ry'Ubuhanga bwa ERP",
+  "contactPageDescription": "Twandikire kugira ngo tuganire ku buntu ku ihinduranywa rya ERP. Nta gahato, gusa inama z'inzobere ku bisubizo bya ERP bihendutse kandi byahinduwe kugira ngo wongere ubushobozi bw'ibikorwa byawe."
 }

@@ -16,7 +16,15 @@ const Differences = () => {
         <div className="difference-card">
           <h3>{t('specialized')}</h3>
           <p>{t('specializedSubtext')}</p>
-        </div>
+        </div> 
+        <div className="difference-card">
+          <h3>{t('Tailored')}</h3>
+          <p>{t('TailoredSubtext')}</p>
+        </div> 
+        <div className="difference-card">
+          <h3>{t('End-to-End')}</h3>
+          <p>{t('End-to-EndSubtext')}</p>
+        </div> 
       </div>
     </section>
   );

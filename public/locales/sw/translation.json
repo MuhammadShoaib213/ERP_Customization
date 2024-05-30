@@ -6,7 +6,7 @@
   "subheading2": "Akiba kubwa ya gharama - IMETHIBITISHWA.",
   "contactButton": "Tuongee",
   "erpImportant": "Ubinafsishaji wa ERP ni muhimu kwa shirika lako, lakini haimaanishi kuwa unapaswa kutumia suluhisho za ERP zenye gharama kubwa na kulipa ada za leseni mara kwa mara au kuchagua suluhisho la bei rahisi la ukubwa mmoja.",
-  "howToGet": "Unawezaje Kupata Suluhisho la ERP Linaloweza Kugharamiwa na Lililobinafsishwa Kwa Ajili Yako?",
+  "howToGet": "Je, Unawezaje Kupata Suluhisho la ERP Linaloweza Kugharamiwa na Lililobinafsishwa Kwa Ajili Yako?",
   "codeEverything": "KODI KILA KITU WEWE MWENYEWE?",
   "codeSubtext": "Hiyo ni sawa ikiwa wewe ni mtaalam na una muda mwingi. Lakini ikiwa una majukumu mengi tayari... hii siyo chaguo linalowezekana.",
   "hireNewStaff": "KUWAJIRI WAFANYIKAZI WAPYA?",
@@ -18,6 +18,10 @@
   "localSubtext": "Hatujafichwa katika kituo cha simu kisichojulikana. Sisi ni kampuni ya eneo hilo, hivyo utaweza kutufikia unapotuhitaji.",
   "specialized": "MAALUM",
   "specializedSubtext": "Mwenye kujua mengi, mtaalam wa hakuna. Utaalam unafanya kazi. Ndio maana tunafanya kazi na sekta tunazojua, ili tuweze kuhakikisha matokeo.",
+  "Tailored": "IMEBINAFSISHWA",
+  "TailoredSubtext": "Suluhisho zetu za ERP zimeundwa kukidhi mahitaji maalum ya biashara yako, zikiboresha ufanisi wa operesheni na uzalishaji kwa njia ya kibinafsi inayoweza kubadilika katika hali yoyote.",
+  "End-to-End": "KUTOKA MWANZO HADI MWISHO",
+  "End-to-EndSubtext": "Tunatoa usaidizi kamili wa ERP kutoka usanidi wa awali hadi masasisho yanayoendelea, na timu iliyojitolea inayopatikana 24/7 kuhakikisha operesheni zinaenda vizuri na ushirikiano unaolenga mafanikio yako.",
   "contactUsHeading": "Wasiliana Nasi Kwa Kikao cha Ushauri wa Bure kuhusu Ubinafsishaji wa ERP",
   "contactUsButton": "Wasiliana Nasi",
   "noObligations": "Hakuna wajibu, hakuna mbinu za mauzo zenye shinikizo. Hatutapoteza muda wako.",
@@ -27,8 +31,8 @@
   "phone": "Simu",
   "importantQuestion": "Swali lako muhimu zaidi ni lipi?",
   "send": "TUMA",
-  "homePageTitle": "Suluhisho la ERP Linaloweza Kugharamiwa na Lililobinafsishwa",
-  "homePageDescription": "Gundua suluhisho la ERP linaloweza kugharamiwa na lililobinafsishwa kutosheleza mahitaji ya biashara yako. Punguza gharama na epuka ada za leseni za mara kwa mara kwa kutumia huduma zetu maalum.",
-  "contactPageTitle": "Wasiliana Nasi kwa Ubinafsishaji wa ERP",
-  "contactPageDescription": "Wasiliana nasi kwa kikao cha ushauri wa bure kuhusu ubinafsishaji wa ERP. Hakuna wajibu, ni ushauri wa kitaalam tu kuhusu suluhisho la ERP linaloweza kugharamiwa na lililobinafsishwa."
+  "homePageTitle": "Suluhisho la ERP Linaloweza Kugharamiwa na Lililobinafsishwa Kwa Ajili ya Biashara Yako",
+  "homePageDescription": "Gundua suluhisho la ERP linaloweza kugharamiwa na lililobinafsishwa kutosheleza mahitaji ya biashara yako. Punguza gharama, epuka ada za leseni za mara kwa mara, na faidika na huduma zetu maalum za kuongeza ufanisi wa operesheni zako.",
+  "contactPageTitle": "Wasiliana Nasi kwa Huduma za Ubinafsishaji wa ERP",
+  "contactPageDescription": "Wasiliana nasi kwa kikao cha ushauri wa bure kuhusu ubinafsishaji wa ERP. Hakuna wajibu, ni ushauri wa kitaalam tu kuhusu suluhisho la ERP linaloweza kugharamiwa na lililobinafsishwa ili kuongeza ufanisi wa michakato yako ya kibiashara."
 }

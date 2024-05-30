@@ -26,17 +26,26 @@
   margin-left: 20px; /* Add some left margin for visual separation */
 }
 
-.footer .contact-info span, .footer .contact-info .fa-phone-alt {
-  display: block; /* Each element on its own line */
+.footer .contact-info a {
+  display: block; /* Ensure each link is on its own line */
+  color: #fff; /* Set color to white */
+  font-weight: bold; /* Make phone numbers bold */
+  font-size: 1.5em; /* Increase font size */
+  text-decoration: none; /* Remove underline */
+  margin-bottom: 10px; /* Space between numbers */
 }
 
-.footer .contact-info span {
-  font-weight: bold; /* Make phone numbers bold */
-  font-size: 1.2em; /* Increase font size */
+.footer .contact-info a:hover {
+  color: #ccc; /* Change color on hover */
+  text-decoration: underline; /* Add underline on hover */
+}
+
+.footer .contact-info .faWhatsapp {
+  margin-right: 10px; /* Space between icon and number */
 }
 
 .footer .social-media {
-  font-size: 2em; /* Increase the size for visibility */
+  font-size: 2.5em; /* Increase the size for visibility */
   color: #ffffff; /* Ensure high contrast and visibility */
   display: flex;
   align-items: center;
@@ -45,4 +54,8 @@
 .footer .social-media a {
   color: inherit;
   margin: 0 10px; /* Space out icons */
+}
+
+.footer .social-media a:hover {
+  color: #ccc; /* Light grey color on hover */
 }
