@@ -9,6 +9,7 @@ import Footer from './Footer';
 import './Home.css';
 import { Link } from 'react-router-dom';
 
+
 const Home = () => {
   const { t } = useTranslation();
 
@@ -17,6 +18,19 @@ const Home = () => {
       <Helmet>
         <title>{t('homePageTitle')}</title>
         <meta name="description" content={t('homePageDescription')} />
+        <meta name="keywords" content="ERP solutions, custom ERP, affordable ERP, ERP customization, business solutions, cost savings ERP, specialized ERP services" />
+        {/* Social Media Meta Tags */}
+        <meta property="og:title" content={t('homePageTitle')} />
+        <meta property="og:description" content={t('homePageDescription')} />
+        <meta property="og:image" content="./images/logo.png" />
+        <meta property="og:url" content="https://erpcustomization.net" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="ERP Customization" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={t('homePageTitle')} />
+        <meta name="twitter:description" content={t('homePageDescription')} />
+        <meta name="twitter:image" content="./images/logo.png" />
+        <meta name="twitter:site" content="@YourTwitterHandle" />
       </Helmet>
       <Header />
       <section className="hero">

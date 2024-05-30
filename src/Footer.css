@@ -1,33 +1,48 @@
 .footer {
   background-color: #000;
   color: #fff;
-  padding: 20px;
-  text-align: center;
+  padding: 20px 40px; /* Increase padding horizontally */
   display: flex;
-  flex-direction: column;
+  justify-content: space-between; /* Keep space between the main blocks */
   align-items: center;
+  flex-wrap: wrap; /* Allow wrapping if necessary */
 }
 
-.footer p, .footer .contact-info {
+.footer p, .footer .contact-info, .footer .social-media {
   margin: 0;
-  margin-top: 10px; /* Adding top margin for spacing between elements */
   font-size: 1em;
 }
 
 .footer .logo img {
-  width: 150px;
+  width: 100px; /* Adjust logo size for balance */
   height: auto;
-  margin: 10px 0;
+  margin-bottom: 10px;
 }
 
 .footer .contact-info {
   display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 20px; /* Add some left margin for visual separation */
+}
+
+.footer .contact-info span, .footer .contact-info .fa-phone-alt {
+  display: block; /* Each element on its own line */
+}
+
+.footer .contact-info span {
+  font-weight: bold; /* Make phone numbers bold */
+  font-size: 1.2em; /* Increase font size */
+}
+
+.footer .social-media {
+  font-size: 2em; /* Increase the size for visibility */
+  color: #ffffff; /* Ensure high contrast and visibility */
+  display: flex;
   align-items: center;
 }
 
-.footer .contact-info .fa-phone-alt { /* Explicitly style the icon */
-  color: #fff; /* Set color to ensure visibility against the footer background */
-  margin-right: 10px; /* Space between icon and text */
-  font-size: 1em; /* Adjust size as needed */
+.footer .social-media a {
+  color: inherit;
+  margin: 0 10px; /* Space out icons */
 }
-
