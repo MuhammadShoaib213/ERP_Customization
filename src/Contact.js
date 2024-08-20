@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <section id="contact-section" className="contact-section">
       <h2>{t('contactUsHeading')}</h2>
-      <Link to="/ContactForm">
+      <Link to="/contactform">
         <button className="cta-button cta-button-contact">{t('contactUsButton')}</button>
       </Link>
     </section>

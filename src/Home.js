@@ -40,7 +40,7 @@ const Home = () => {
         <br/>
         <h3 className="sub-heading">{t('subheading1')}</h3>
         <h3 className="sub-heading">{t('subheading2')}</h3>
-        <Link to="/ContactForm">
+        <Link to="/contactform">
           <button className="cta-button">{t('contactButton')}</button>
         </Link>
       </section>
