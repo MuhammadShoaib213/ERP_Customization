@@ -31,6 +31,7 @@ const Home = () => {
         <meta name="twitter:description" content={t('homePageDescription')} />
         <meta name="twitter:image" content="./images/logo.png" />
         <meta name="twitter:site" content="@YourTwitterHandle" />
+        <link rel="canonical" href="https://erpcustomization.net/" />
       </Helmet>
       <Header />
       <section className="hero">
