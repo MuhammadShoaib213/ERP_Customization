@@ -1,7 +1,7 @@
 .header {
   background-color: #fff;
   border-bottom: 1px solid #ddd;
-  padding: 20px 0; /* Increased padding for a more substantial header */
+  padding: 10px 0; /* Increased padding for a more substantial header */
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .logo img {
-  width: 100px; /* Increased logo size for better visibility */
+  width: 70px; /* Increased logo size for better visibility */
   height: auto;
 }
 
@@ -45,7 +45,7 @@ nav ul li a {
   text-decoration: none;
   color: #000;
   font-weight: bold;
-  font-size: 18px; /* Increased font size for better readability */
+  font-size: 14px; /* Increased font size for better readability */
 }
 
 .language-selector select {
